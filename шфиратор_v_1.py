@@ -1,10 +1,10 @@
 import tkinter as tk 
 from tkinter import END, Button, Label, messagebox
-from tkinter.font import NORMAL         # messagebox модуль который содержит функци и классы по работе со всплывающими окнами и сообщениями
+from tkinter.font import NORMAL         
 import tkinter.filedialog as fd
 from tkinter.tix import Y_REGION
 from turtle import st
-from idlelib.tooltip import Hovertip           # всплывающие окна
+from idlelib.tooltip import Hovertip        
 
 
 def create_chipher():
